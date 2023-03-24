@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi CV</title>
+    <link rel="icon" type="image/x-icon" href="C:\Users\Usuario\Desktop\pokebola-ConvertImage.ico">
+    <meta property="og:title" content="Titulo" />
+ <meta property="og:type" content="article" />
+ <meta property="og:url" content=" www.linkedin.com/in/jonathan-colque-8a52b525" />
+ <meta property="og:image" content=" https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2022/06/6420b-pikachu-sentado-png.png?resize=450%2C450&amp;ssl=1" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Imagenes Pikachu Png - El Taller de Hector" data-noaft="1" style="width: 450px; height: 450px; margin: 0px;">
+ <meta property="og:description" content="Mi primer CV" />
+ <link rel="stylesheet" href="estilos.css">
+    <style>
+        .profile-image {
+          float: right;
+          border: 2px solid black;
+          margin: 10px;
+        }
+      </style>
+</head>
+<body>
+    <main>
+        <section>
+            <h1>Jonathan Colque</h1>
+            <h2>Desarrollador Front End</h2>
+        </section>
+        <section>
+            <h2>Sobre mí</h2>
+            <p>Joven entusiasta, con muchas ganas de aprender y dedicarse a la programación. Padre de familia, autodidacta y muy responsable. Amante de los animales y la naturaleza.</p>
+        </section>
+    </main>
+     
+        <figure>
+            <img class="profile-image" src="https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2022/06/6420b-pikachu-sentado-png.png?resize=450%2C450&amp;ssl=1" alt="Imagen de Pikachu">
+        </figure>
+        <section>
+            <h2>Experiencia</h2><button class="miBoton"id="miBoton">Haz clic aquí</button>
+            <ul>
+                <li>Cajero-Repositor</li>
+                <li>Cajero-Jumbo</li>
+                <li>Recontador</li>
+            </ul>
+        </section>
+    <section>
+        <h2>Educación</h2><button class="miBoton">Haz clic aquí</button>
+        <ul>
+            <li><span>Licenciado en Comercio Exterior</span> <span>En curso</span></li>
+            <li><span>Técnico en Programación</span> <span>En curso</span></li>
+        </ul>
+    </section>
+    <section>
+        <h2>Habilidades Personales</h2><button class="miBoton">Haz clic aquí</button>
+        <ul>
+            <li>Empatía</li>
+            <li>Trabajo en equipo</li>
+            <li>Proactivo</li>
+            <li>Rápido aprendizaje</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Contactos/Referencias</h2><button class="miBoton">Haz clic aquí</button> 
+        <ul>
+            <li>Sr. Charizard. 156478953</li>
+            <li>Sr. Bulbasaur. 157896543</li>
+        </ul>
+        
+    </section>
+    <script src="miScript.js"></script>
+   
+   
+    
+    
+</body>
+</html>

@@ -1,0 +1,59 @@
+/* Fuentes */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+.profile-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+  
+/* Estilos para el cuerpo */
+body {
+    background: linear-gradient(to bottom, #7579ff, #b224ef);
+  }
+
+/* Estilos para encabezados */
+h1, h2 {
+    margin: 0 0 1.5rem;
+    font-weight: 700;
+    color: #000;
+}
+
+h1 {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+
+/* Estilos para secciones */
+section {
+    margin-bottom: 2.5rem;
+}
+section h2 {
+    font-weight: 700;
+    color: #b91d1d;
+}
+
+
+
+  
+  .miBoton {
+    background-color: #7579ff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .miBoton:hover {
+    background-color: #b224ef;
+  }
